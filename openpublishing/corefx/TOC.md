@@ -13,7 +13,6 @@
 ## [Delegates and lambdas](delegates-lambdas.md)
 ## [.NET Class Libraries](class-libraries.md)
 ## [Framework Libraries](framework-libraries.md)
-## [Read Me](README.md)
 ## [Dotnet Standards](dotnet-standards.md)
 ## [Common language runtime](common-language-runtime.md)
 # [Supporting .NET Core](supporting-core.md)
