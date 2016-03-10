@@ -1,4 +1,4 @@
-# Get Started
+#### Get Started
 ## [Introduction to CLR](intro-clr.md)
 ## [Installing .NET Core on Windows](installing-core-windows.md)
 ## [Installing .NET Core on Linux](installing-core-linux.md)
