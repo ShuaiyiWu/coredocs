@@ -1,4 +1,4 @@
-#### Get Started
+# Get Started
 ## [Introduction to CLR](intro-clr.md)
 ## [Installing .NET Core on Windows](installing-core-windows.md)
 ## [Installing .NET Core on Linux](installing-core-linux.md)
@@ -18,3 +18,4 @@
 # [Supporting .NET Core](supporting-core.md)
 # [Creating a Cross-Platform Console App with DNX](console.md)
 # [Roslyn Overview](roslyn-overview.md)
+
